@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a360170b965d29f42872d7a50a62371f
+timeCreated: 1475360113
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - brokenObject: {instanceID: 0}
+  - breakSound: {fileID: 8300000, guid: 632a78aa4c2df6c4fb44f03ac66b9321, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

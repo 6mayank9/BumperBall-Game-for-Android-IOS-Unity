@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4deaf409e3aefe04b8bc25acea205741
+timeCreated: 1475356619
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bumpSound: {fileID: 8300000, guid: eab9738b3279a4f8ab06071132ed1efd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
